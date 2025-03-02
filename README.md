@@ -1,1 +1,1 @@
-The code to run the simulation pertaining to my SER Model. Would be quite interested in someone with more compute power than I currently possess to running it with a higher ensemble.
+SER6.py and ser_lindblad.cl are both required for the simulation to run. It used OpenCL, which i realize may be a pain in the ass for some people. Sorry.
