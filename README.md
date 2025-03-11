@@ -40,6 +40,8 @@ git clone AngryBeaverss/SER
 
 cd SER
 
+If using the CPU version, simply run SERCpu.py else:
+
 Ensure OpenCL is installed and configured correctly for your system. You can check OpenCL compatibility by running:
 
 
