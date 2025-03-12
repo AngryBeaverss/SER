@@ -10,9 +10,8 @@ The repository contains:
 ## What is Structured Energy Return (SER)?
 SER introduces a state-dependent nonlinear feedback term into the standard Lindblad master equation:
 
-\[
-\frac{d\rho}{dt} = -\frac{i}{\hbar}[H, \rho] + \gamma\left(L\rho L^\dagger - \frac{1}{2}\{L^\dagger L, \rho\}\right) + \beta F(\rho)(I-\rho)L\rho L^\dagger(I-\rho)
-\]
+dρ/dt = - (i/ℏ) [H, ρ] + γ (LρL† - ½{L†L, ρ}) + β F(ρ) (I - ρ) LρL† (I - ρ)
+
 
 - **Feedback Strength (β):** Controls the intensity of coherence restoration.
 - **SER mechanism** measures how far the density matrix ρ is from a pure state and acts to reduce mixedness.
