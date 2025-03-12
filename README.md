@@ -46,3 +46,5 @@ dρ/dt = - (i/ℏ) [H, ρ] + γ (LρL† - ½{L†L, ρ}) + β F(ρ) (I - ρ) L�
    Install via pip:
    ```bash
    pip install numpy scipy matplotlib
+   python rkSER.py
+   python SERsweep.py
